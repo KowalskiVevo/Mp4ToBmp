@@ -8,7 +8,7 @@ Mp4 file converter to bmp array
 pyinstaller -F converter.py
 ```
 
-# How yo compile to exe without console?
+# How to compile to exe without console?
 ```bash
 pyinstaller -F --noconsole converter.py
 ```
